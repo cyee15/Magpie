@@ -10,7 +10,7 @@
  * @author Laurie White
  * @version April 2012
  */
-public class Magpie
+public class Magpie2
 {
  /**
   * Get a default greeting  
